@@ -1,4 +1,4 @@
-# Backend - Knowledge - VueJS - Udemy
+# Backend - Knowledge - NodeJS - Udemy
 
 ### O desenvolvimento desse projeto foi acopanhado através de um curso da Udemy, ministrado pelo excelente professor Leonardo Leitão. 
 
